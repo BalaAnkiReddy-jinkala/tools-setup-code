@@ -7,7 +7,7 @@ terraform {
 }
 
 variable "ami_id" {
-  default = "ami-08b5b3a93ed654d19"
+  default = "ami-09c813fb71547fc4f"
 }
 
 variable "zone_id" {
